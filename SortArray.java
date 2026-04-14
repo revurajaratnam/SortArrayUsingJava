@@ -26,7 +26,7 @@ public class SortArray{
               System.out.print(arr[i]+" ,");
             }
             System.out.println();
-             System.out.println("Easy and Quick use sort Method");
+             System.out.println("Easy and Quick use sort Method :");
             Arrays.sort(arr);
             System.out.println("Sort Method"+Arrays.toString(arr));
             
